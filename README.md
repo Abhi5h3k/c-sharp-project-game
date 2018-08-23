@@ -1,4 +1,4 @@
-# C\# BArrel drop Game
+# C\# Barrel drop Game
 
 ![Gameplay](https://media.giphy.com/media/9MJ7ePTrxCEzdS2D7Q/giphy.gif)
 
