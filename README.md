@@ -4,23 +4,23 @@
 
 ![Gameplay](https://media.giphy.com/media/9MJ7ePTrxCEzdS2D7Q/giphy.gif)
 
-Simple barrel drop game where we need to save the player from being hit by a falling barrel (Development In progress)
+Simple game where we save the player from being hit by a falling barrel. (Development In progress)
 
-## Getting Started
+## Getting Started:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.  
 
 1. Go to repository and click on clone or download, Then Download Zip. 
 
-2.Locate the downloaded Zip and extract to the prject directory where you want to keep the project.
+2. Locate the downloaded .zip file and extract the file to the desired project directory.
 
 3. Follow the [steps to import](http://support.objecteering.com/objecteering6.1/help/us/csharp_developer/using_visual_studio/importing_existing_vs_project.htm) project into visual Studio (Abhishek_vb_project2017MCA.sln)
 
 ### Prerequisites
 
-For Devlopment :
+For Development:
 
-Make sure you have Visual Studio and .NET Framework required to run C# code. 
+Make sure you have Visual Studio and .NET Framework installed to run C# code. 
  
 ## Built With
 
@@ -35,4 +35,4 @@ Make sure you have Visual Studio and .NET Framework required to run C# code.
 
 ## License
 
-This project is opensource anyone can use it for learnig/practicing for college projects, Kindly maintain the proper credits for author and contributers.
+This project is opensource. Anyone can use it for learning, practicing, and even for college projects. Kindly maintain the proper credits for author and contributers.
