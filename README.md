@@ -35,4 +35,4 @@ Make sure you have Visual Studio and .NET Framework installed to run C# code.
 
 ## License
 
-This project is opensource. Anyone can use it for learning, practicing, and even for college projects. Kindly maintain the proper credits for author and contributers.
+This project is opensource. Anyone can use it for learning, practicing, and even for college projects. Kindly maintain the proper credits for authors and contributers.
