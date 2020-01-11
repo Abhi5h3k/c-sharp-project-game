@@ -4,7 +4,7 @@
 
 ![Gameplay](https://media.giphy.com/media/9MJ7ePTrxCEzdS2D7Q/giphy.gif)
 
-Simple game where we save the player from being hit by a falling barrel. (Development In progress)
+Simple game where we save the player from being hit by a falling barrel. (Development in progress)
 
 ## Getting Started:
 
